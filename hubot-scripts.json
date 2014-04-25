@@ -1,1 +1,10 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+	"file-brain.coffee",
+	"shipit.coffee",
+	"remember.coffee",
+	"github-issue-link.coffee",
+	"github-commit-link.coffee",
+	"github-issues.coffee",
+	"working-on.coffee",
+	"jenkins-notifier.coffee"
+]
