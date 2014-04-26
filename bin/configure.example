@@ -1,0 +1,19 @@
+#!/bin/bash
+
+export FILE_BRAIN_PATH="brain/"
+
+export PORT=5678
+export HUBOT_HTTPD=true
+
+export HUBOT_SLACK_TOKEN=""
+export HUBOT_SLACK_TEAM="oopworms"
+export HUBOT_SLACK_BOTNAME="Willy"
+#export HUBOT_SLACK_BOTNAME="Willy 'CannonFodder' Williams"
+
+export HUBOT_NAME="willy"
+
+export HUBOT_ADAPTER=slack
+
+export HUBOT_GITHUB_REPO="caske33/oopworms"
+export HUBOT_GITHUB_TOKEN=""
+export HUBOT_GITHUB_USER="caske33"
