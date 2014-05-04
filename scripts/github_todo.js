@@ -19,8 +19,8 @@
 
 var async = require('async');
 
-var completedChar = "✓";// ✓ ✔ :heavy_check_mark:
-var uncompletedChar = "✗";//:heavy_multiplication_x: ✖ ✘ ✗ ✕
+var completedChar = "✔";// ✓ ✔ :heavy_check_mark:
+var uncompletedChar = "✘";//:heavy_multiplication_x: ✖ ✕ ✘ ✗
 
 var parseToDos = function(body, url){
   var result = [];
